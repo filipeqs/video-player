@@ -22,8 +22,9 @@ open index.html
 
 ## Features
 
-- Add Bookmark
-- Remove Bookmark
+- Play/Pause Video
+- Mute/Unmute Video
+- Play Video on Fullscreen
 
 ## Resources
 
